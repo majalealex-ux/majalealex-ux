@@ -86,7 +86,6 @@ An end-to-end Power BI project analysing an automotive sales dataset, with a str
 * DAX measures
 * Interactive dashboard development
 
-🔗 **[View Project →](./JCars-Sales-Performance-Analysis/)**
 
 ---
 
@@ -107,8 +106,6 @@ An Excel analysis of product-level data exploring product performance indicators
 * Correlation analysis
 * Interpretation of analytical limitations
 
-🔗 **[View Project →](./Jumia-Product-Performance-Dashboard/))**
-
 ---
 
 ## 👥 HR Turnover & Compensation Analysis
@@ -125,7 +122,6 @@ An HR analytics project exploring employee turnover and its relationship with co
 * How does tenure differ between employees who leave and those who remain?
 * How are training and career progression associated with employee retention?
 
-🔗 **[View Project →](./projects/hr-turnover-analysis/)**
 
 ---
 
