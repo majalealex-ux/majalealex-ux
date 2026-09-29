@@ -107,7 +107,7 @@ An Excel analysis of product-level data exploring product performance indicators
 * Correlation analysis
 * Interpretation of analytical limitations
 
-🔗 **[View Project →](./projects/jumia-product-performance/)**
+🔗 **[View Project →]([(https://github.com/majalealex-ux/Jumia-Product-Performance-Dashboard)])**
 
 ---
 
