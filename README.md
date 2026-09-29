@@ -86,7 +86,7 @@ An end-to-end Power BI project analysing an automotive sales dataset, with a str
 * DAX measures
 * Interactive dashboard development
 
-🔗 **[View Project →](./projects/jcars-sales-analysis/)**
+🔗 **[View Project →](./JCars-Sales-Performance-Analysis/)**
 
 ---
 
@@ -107,7 +107,7 @@ An Excel analysis of product-level data exploring product performance indicators
 * Correlation analysis
 * Interpretation of analytical limitations
 
-🔗 **[View Project →]([(https://github.com/majalealex-ux/Jumia-Product-Performance-Dashboard)])**
+🔗 **[View Project →](./Jumia-Product-Performance-Dashboard/))**
 
 ---
 
