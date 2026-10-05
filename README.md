@@ -123,69 +123,6 @@ An HR analytics project exploring employee turnover and its relationship with co
 * How are training and career progression associated with employee retention?
 
 
----
-
-# 📈 My Analytics Approach
-
-I don't want my projects to be:
-
-**Dataset → Dashboard → Done**
-
-Instead:
-
-```text
-Business Question
-       ↓
-Understand the Data
-       ↓
-Identify the Dataset Grain
-       ↓
-Profile the Columns
-       ↓
-Investigate Data Quality
-       ↓
-Clean & Transform
-       ↓
-Model the Data
-       ↓
-Analyse
-       ↓
-Visualize
-       ↓
-Generate Insights
-       ↓
-Communicate Findings
-```
-
-I believe good analysis starts with **understanding the data before trying to explain it**.
-
----
-
-# 🎯 Currently Learning
-
-I'm currently strengthening my skills in:
-
-* Power BI
-* DAX
-* Data Modelling
-* Power Query
-* SQL
-* Python for Data Analysis
-* Business-focused analytics
-* Data storytelling
-
-I'm particularly interested in using data to answer practical questions such as:
-
-> **What happened?**
-
-> **Why did it happen?**
-
-> **What patterns can we identify?**
-
-> **What does the data tell us?**
-
----
-
 # 🎓 Background
 
 **BSc Project Planning & Management**
