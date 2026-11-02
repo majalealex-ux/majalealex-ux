@@ -1,9 +1,7 @@
-# Hi, I'm Alex Majale 👋
-
+# WELCOME
+# I'm Alex Majale 
 ### Project Planning & Management Graduate | Data Analytics
-
 I'm a **Project Planning & Management graduate** building my career in **Data Analytics**, with a focus on turning raw and messy data into information that can support better decisions.
-
 My interest in analytics started with a simple question:
 
 > **What can we learn from the data we already have?**
