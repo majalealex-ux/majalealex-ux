@@ -12,7 +12,7 @@ My background in **project planning, monitoring & evaluation, reporting, and doc
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills & Tools
 
 ### Data Analytics
 
@@ -63,9 +63,9 @@ My background in **project planning, monitoring & evaluation, reporting, and doc
 
 ---
 
-# 📊 Featured Projects
+# Featured Projects
 
-## 🚗 JCars Sales Analysis — Power BI
+## JCars Sales Analysis — Power BI
 
 **Power BI | Power Query | Data Modelling | DAX | Data Cleaning**
 
@@ -87,7 +87,7 @@ An end-to-end Power BI project analysing an automotive sales dataset, with a str
 
 ---
 
-## 🛒 Jumia Product Performance Analysis — Excel
+##  Jumia Product Performance Analysis — Excel
 
 **Microsoft Excel | Data Cleaning | PivotTables | Data Analysis**
 
@@ -106,7 +106,7 @@ An Excel analysis of product-level data exploring product performance indicators
 
 ---
 
-## 👥 HR Turnover & Compensation Analysis
+##  HR Turnover & Compensation Analysis
 
 **Excel | Data Cleaning | Exploratory Analysis | Visualization**
 
@@ -121,7 +121,7 @@ An HR analytics project exploring employee turnover and its relationship with co
 * How are training and career progression associated with employee retention?
 
 
-# 🎓 Background
+#  Background
 
 **BSc Project Planning & Management**
 Kisii University
@@ -140,7 +140,7 @@ I'm now combining that foundation with data analytics to build a career at the i
 
 ---
 
-# 📜 Certifications & Learning
+#  Certifications & Learning
 
 * Google Project Management Certificate
 * Asana Project Management
@@ -154,14 +154,14 @@ I continue to develop my technical skills through hands-on projects and practica
 
 ---
 
-# 📫 Connect With Me
+#  Connect With Me
 
 I'm interested in opportunities involving:
 
 **Data Analytics • Business Intelligence • Project Analytics • Monitoring & Evaluation • Reporting**
 
-📧 Email: **[majalealex@gmail.com]**
+Email: **[majalealex@gmail.com]**
 
-🔗 LinkedIn: **[www.linkedin.com/in/alex-majale]**
+LinkedIn: **[www.linkedin.com/in/alex-majale]**
 
-💻 GitHub: **[https://github.com/majalealex-ux]**
+GitHub: **[https://github.com/majalealex-ux]**
